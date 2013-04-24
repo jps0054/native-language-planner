@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ea1">A</string>
+    <string name="ea2">B</string>
+    <string name="ea3">C</string>
+    <string name="ea4">D</string>
+    <string name="ea5">E</string>
+    <string name="ea6">F</string>
+    <string name="ea7">G</string>
+    <string name="ea8">H</string>
+    <string name="ea9">I</string>
+    <string name="ea10">J</string>
+    <string name="ea11">K</string>
+    <string name="ea12">L</string>
+    <string name="ea13">M</string>
+    <string name="ea14">N</string>
+    <string name="ea15">O</string>
+    <string name="ea16">P</string>
+    <string name="ea17">Q</string>
+    <string name="ea18">R</string>
+    <string name="ea19">S</string>
+    <string name="ea20">T</string>
+    <string name="ea21">U</string>
+    <string name="ea22">V</string>
+    <string name="ea23">W</string>
+    <string name="ea24">X</string>
+    <string name="ea25">Y</string>
+    <string name="ea26">Z</string>
+    
+    <string name="eitem1">Apple</string>
+    <string name="eitem2">Ball</string>
+    <string name="eitem3">Cat</string>
+    <string name="eitem4">Dog</string>
+    <string name="eitem5">Elephant</string>
+    <string name="eitem6">Frog</string>
+    <string name="eitem7">Giraffe</string>
+    <string name="eitem8">Hat</string>
+    <string name="eitem9">Icecream</string>
+    <string name="eitem10">Jug</string>
+    <string name="eitem11">Kite</string>
+    <string name="eitem12">Lion</string>
+    <string name="eitem13">Mango</string>
+    <string name="eitem14">Net</string>
+    <string name="eitem15">Owl</string>
+    <string name="eitem16">Pen</string>
+    <string name="eitem17">Queen</string>
+    <string name="eitem18">Rabbit</string>
+    <string name="eitem19">Sun</string>
+    <string name="eitem20">Tree</string>
+    <string name="eitem21">Umbrella</string>
+    <string name="eitem22">Van</string>
+    <string name="eitem23">Window</string>
+    <string name="eitem24">xylophone</string>
+    <string name="eitem25">Yacht</string>
+    <string name="eitem26">Zebra</string>
+    
+    
+
+    
+    
+</resources>
